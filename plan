@@ -1,0 +1,78 @@
+Plan Of Study
+
+Name		Credits		When
+SE 310		3			
+SE 311		3			
+SE 320		3			
+SE 410		3			
+
+CS 281		4			
+CS 283		3			
+
+INFO 210	3			
+INFO 310	3			
+INFO 420*	3			
+
+CI 491		3			
+CI 492		3			
+CI 493		3			
+
+[Or]
+CS 472		3			
+INFO 330	4			
+[End Or]
+
+MATH 221	3			
+STAT 201	4			
+STAT 202	4			
+
+PHYS Elec	5
+
+PHIL 105	3			
+COM 230		3			
+COM 310		3			
+PSY 330		3			
+
+[Pick 2]
+ACCT 115	4			
+ECON 201	4			
+ECON 202	4			
+[End Pick 2]
+
+
+
+[Need]		4.5
+AFAS
+ANTH
+COM
+ENGL
+	200
+	-
+	499
+GREC
+	212
+	225
+	399
+HNRS
+	301
+	302
+	303
+	304
+	306
+	307
+PHIL
+PSCI
+PSY
+SOC
+WMST
+[End Need]
+
+[Writing] - 3 courses, 2 in major
+http://www.drexel.edu/engphil/about/DrexelWritingCenter/wiCourses/course_list/
+[End Writing]
+
+Regex for course line:
+
+^[A-Z]{2,4} \d{3}\t+\d
+
+info 330 and 331 are networking classes
