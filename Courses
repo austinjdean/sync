@@ -1,14 +1,18 @@
 Courses
 
-Name		CRN 		Days		Time			Credits
-PHIL 105	10052		MWF			1000 - 1100		3
-SE 310		10650		TR			1100 - 1230		3
-MATH 221	10589		MWF			1300 - 1400		3
-STAT 201	10404		T			1400 - 1600		4
-CS 281 lab	15665		R			1500 - 1700		0
-CS 281 lec	14271		T			1830 - 2130		4
-Choir		11939		TR			1730 - 1900		1
-Pep Band	14476		M			1900 - 2100		1
-Late Night	10972		R			1900 - 2300		1
+Name			CRN 		Days		Time			Credits		Status
+SE 310			10650		TR			1100 - 1230		3			Full	The fuck is this shit
+MATH 221		10589		MWF			1300 - 1400		3			Good
+STAT 201		10404		T			1400 - 1600		4			Good
+CS 281 lab		15665		R			1500 - 1700		0			Full	Alt: 13209 or 13207
+CS 281 lec		14271		T			1830 - 2130		4			Good
+INFO 330 lec	15678		MWF			1400 - 1500		4			Good
+INFO 330 lab	15677		F			1500 - 1700		0			Good
+Choir			11939		TR			1730 - 1900		1			Good
+Pep Band		14476		M			1900 - 2100		1			Good
 
-Total		-			-			-				20
+Total			-			-			-				20
+
+Work-arounds:
+
+- sign up for 281 (13209, R, 18-20) or (13207, R, 20-22), but actually attend (13208, W, 18-20) or (15665, R, 15-17)
