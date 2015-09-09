@@ -1,0 +1,7 @@
+Linux:
+
+# Python Shebang
+#!/usr/bin/env python
+
+# Silence all output of command
+> /dev/null 2>&1
