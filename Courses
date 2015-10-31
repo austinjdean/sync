@@ -1,26 +1,26 @@
 Courses
 
-	Name			|CRN 		|Days		|Time			|Credits	|Full	|Only sec	|Viable/notes
+    Name            |CRN        |Days       |Time           |Credits    |Full   |Only sec   |Viable/notes
 --------------------+-----------+-----------+---------------+-----------+-------+-----------+------------
-x	SE 311			|20645		|Tue Thu	|1400 - 1530	|3			|1		|1			|0 - full
-x	INFO 210		|20538		|Tue Thu	|0800 - 0930	|3			|0		|1			|1
-x	INFO 310		|20539		|Tue Thu	|1530 - 1700	|3			|0		|1			|1
-A	COM 310			|20038		|Mon Wed Fri|0900 - 1000	|3			|0		|0			|1
-E	COM 310			|20039		|Tue		|1900 - 2200	|3			|0		|0			|1
-A	STAT 202		|22736		|Mon Wed	|1000 - 1200	|4			|0		|0			|1
-B	STAT 202		|20435		|Mon Wed	|1400 - 1600	|4			|0		|0			|1
-A	PSY 330			|20047		|Tue Thu	|1100 - 1230	|3			|0		|0			|1
-B	PSY 330			|20206		|Mon Wed Fri|1600 - 1700	|3			|0		|0			|1
-x	Pep Band		|24420		|Mon		|1900 - 2100	|1			|0		|1			|1
-x	Choir			|21966		|Tue Thu	|1730 - 1900	|1			|0		|1			|1
-x	Chambers		|20211		|Wed		|1730 - 1930	|1			|0		|1			|1
-x	Concert			|20064		|-			|-				|0			|-		|-			|-
+x   SE 311          |20645      |Tue Thu    |1400 - 1530    |3          |1      |1          |0 - full
+x   INFO 210        |20538      |Tue Thu    |0800 - 0930    |3          |0      |1          |1
+x   INFO 310        |20539      |Tue Thu    |1530 - 1700    |3          |0      |1          |1
+A   COM 310         |20038      |Mon Wed Fri|0900 - 1000    |3          |0      |0          |1
+E   COM 310         |20039      |Tue        |1900 - 2200    |3          |0      |0          |1
+A   STAT 202        |22736      |Mon Wed    |1000 - 1200    |4          |0      |0          |1
+B   STAT 202        |20435      |Mon Wed    |1400 - 1600    |4          |0      |0          |1
+A   PSY 330         |20047      |Tue Thu    |1100 - 1230    |3          |0      |0          |1
+B   PSY 330         |20206      |Mon Wed Fri|1600 - 1700    |3          |0      |0          |1
+x   Pep Band        |24420      |Mon        |1900 - 2100    |1          |0      |1          |1
+x   Choir           |21966      |Tue Thu    |1730 - 1900    |1          |0      |1          |1
+x   Chambers        |20211      |Wed        |1730 - 1930    |1          |0      |1          |1
+x   Concert         |20064      |-          |-              |0          |-      |-          |-
 
-Total														|19 (not including music)
+Total                                                       |19 (not including music)
 
 Probably not:
 
-B	COM 310			|21082		|Tue Thu	|1230 - 1400	|3			|1		|0			|0 - full
-C	COM 310			|20283		|Tue Thu	|1100 - 1230	|3			|1		|0			|0 - full
-D	COM 310			|20372		|Mon Wed Fri|1100 - 1200	|3			|1		|0			|0 - full
-F	COM 310			|20224		|Wed		|1900 - 2200	|3			|0		|0			|0 - conflict with Chambers
+B   COM 310         |21082      |Tue Thu    |1230 - 1400    |3          |1      |0          |0 - full
+C   COM 310         |20283      |Tue Thu    |1100 - 1230    |3          |1      |0          |0 - full
+D   COM 310         |20372      |Mon Wed Fri|1100 - 1200    |3          |1      |0          |0 - full
+F   COM 310         |20224      |Wed        |1900 - 2200    |3          |0      |0          |0 - conflict with Chambers
