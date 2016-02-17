@@ -29,7 +29,7 @@ COM 310		3
 PSY 330		3			
 
 [Pick 2]
-ACCT 115	4			
+ACCT 110	4			
 ECON 201	4			
 ECON 202	4			
 [End Pick 2]
@@ -62,12 +62,10 @@ SOC
 WMST
 [End Need]
 
-[Writing] - 3 courses, 2 in major
-http://www.drexel.edu/engphil/about/DrexelWritingCenter/wiCourses/course_list/
-[End Writing]
-
 Regex for course line:
 
 ^[A-Z]{2,4} \d{3}\t+\d
+
+Misc notes:
 
 info 330 and 331 are networking classes
